@@ -1,9 +1,10 @@
 # Robot Algorithm Project
 
 ## Project Information
-- Course: Robot Algorithm
-- Project: GPS and Localization
-- Team: Individual Project
+- Course: Robot Algorithm (SWE4007)
+- Project: GPS and Kalman Filter / Particle Filter Localization
+- Team Number: 09
+- Project Type: Individual Project
 
 ## Member Information
 - Name: 김지민

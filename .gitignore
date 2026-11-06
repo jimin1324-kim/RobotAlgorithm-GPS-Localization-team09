@@ -1,0 +1,15 @@
+# Build and execution logs
+log/
+build/
+install/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor settings
+.vscode/
